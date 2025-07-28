@@ -1,0 +1,5 @@
+# Python standard library modules used:
+- tkinter (GUI)
+- sqlite3 (Database)
+- datetime (Date validation)
+- os (File operations)
